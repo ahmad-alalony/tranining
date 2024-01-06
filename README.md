@@ -1,0 +1,2 @@
+# tranining
+for my trainning
